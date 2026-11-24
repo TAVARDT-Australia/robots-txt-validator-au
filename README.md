@@ -1,4 +1,4 @@
-# Robots.txt Validator | TAVARDT Australia
+# Robots.txt Validator
 
 [![Robots.txt Validator](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/au/robots-txt-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ To assess robots.txt files and verify crawler permissions across Australian prop
 ## Australian Digital Infrastructure Advisory
 
 For complex search crawler architecture and technical alignment with Australian Web Standards and Robots Exclusion Protocol, consult **TAVARDT Australia**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
