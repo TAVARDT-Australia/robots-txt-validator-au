@@ -5,7 +5,7 @@
 
 Australian web crawl governance tool inspecting robots.txt directives, preventing crawl budget exhaustion, and securing private routes.
 
-Engineered and maintained by the web indexing and digital standards division at **TAVARDT Australia**.
+Engineered and maintained by the web indexing and digital standards division at **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python robots_validator.py https://example.com.au -json
 To assess robots.txt files and verify crawler permissions across Australian properties:
 
 * **Official Robots.txt Validator**
-* **TAVARDT Australia Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## Australian Digital Infrastructure Advisory
 
-For complex search crawler architecture and technical alignment with Australian Web Standards and Robots Exclusion Protocol, consult **TAVARDT Australia**.
+For complex search crawler architecture and technical alignment with Australian Web Standards and Robots Exclusion Protocol, consult **TAVARDT**.
 
 ***
 
