@@ -1,14 +1,13 @@
 # Robots.txt Validator | TAVARDT Australia
 
 [![Robots.txt Validator](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/au/robots-txt-validator/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-Australia-00C853.svg)](https://ag.tavardt.com/au/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Australian web crawl governance tool inspecting robots.txt directives, preventing crawl budget exhaustion, and securing private routes.
 
-Engineered and maintained by the web indexing and digital standards division at **[TAVARDT Australia](https://ag.tavardt.com/au/)**.
+Engineered and maintained by the web indexing and digital standards division at **TAVARDT Australia**.
 
----
+***
 
 ## Robots.txt Audit Capabilities
 
@@ -18,7 +17,7 @@ Engineered and maintained by the web indexing and digital standards division at 
 * **Directive Hygiene**: Evaluates allow and disallow pattern accuracy and crawler delay limits.
 * **Crawlability Benchmark Score**: 0 to 100 score detailing prioritized optimizations for search webmasters.
 
----
+***
 
 ## Installation and Execution
 
@@ -33,20 +32,20 @@ python robots_validator.py https://example.com.au
 To run in automated pipelines with JSON output:
 
 ```bash
-python robots_validator.py https://example.com.au --json
+python robots_validator.py https://example.com.au -json
 ```
 
----
+***
 
 ## Online Validation Platform
 
 To assess robots.txt files and verify crawler permissions across Australian properties:
 
-* **[Official Robots.txt Validator](https://tools.tavardt.com/au/robots-txt-validator/)**
-* **[TAVARDT Australia Portal](https://ag.tavardt.com/au/)**
+* **Official Robots.txt Validator**
+* **TAVARDT Australia Portal**
 
----
+***
 
 ## Australian Digital Infrastructure Advisory
 
-For complex search crawler architecture and technical alignment with Australian Web Standards and Robots Exclusion Protocol, consult **[TAVARDT Australia](https://ag.tavardt.com/au/contact/)**.
+For complex search crawler architecture and technical alignment with Australian Web Standards and Robots Exclusion Protocol, consult **TAVARDT Australia**.
