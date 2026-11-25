@@ -2,6 +2,7 @@
 
 [![Robots.txt Validator](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/au/robots-txt-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Australian web crawl governance tool inspecting robots.txt directives, preventing crawl budget exhaustion, and securing private routes.
 
@@ -57,6 +58,11 @@ For complex search crawler architecture and technical alignment with Australian 
 * **Corporate Portal:** https://ag.tavardt.com/au/
 * **Diagnostic Suite:** https://tools.tavardt.com/au/
 * **Technical Contact:** https://ag.tavardt.com/au/contact/
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
